@@ -1,0 +1,21 @@
+server:
+  port: 8082
+
+#spring
+spring:
+  application:
+    name: eureka_client_video_user
+#datasource
+  datasource:
+    username: root
+    password:
+    url: jdbc:mysql://localhost:3307/video_user
+    type: com.mchange.v2.c3p0.ComboPooledDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+
+#eureka
+eureka:
+  client:
+    serviceUrl:
+#defaultZone    EurekaServer Url  eureka  注册中心的地址，连接并注册进去
+      defaultZone: http://127.0.0.1:8081/eureka/

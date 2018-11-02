@@ -1,0 +1,14 @@
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1md42871ri1kb9|5b12012e, dataSourceName -> 1hge13c9y1md42871ri1kb9|5b12012e ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1md5lz714bb198|60e21209, dataSourceName -> 1hge13c9y1md5lz714bb198|60e21209 ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1md6l8i125dqyv|14ef2482, dataSourceName -> 1hge13c9y1md6l8i125dqyv|14ef2482 ]
+eureka_client_video_user : [com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1md83061ylr320|65a48602, dataSourceName -> 1hge13c9y1md83061ylr320|65a48602 ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1mdpwov1yvzln8|58a2b4c, dataSourceName -> 1hge13c9y1mdpwov1yvzln8|58a2b4c ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - bannerMapper= org.apache.ibatis.binding.MapperProxy@b73433
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1mdqxen1v06oih|7159a5cd, dataSourceName -> 1hge13c9y1mdqxen1v06oih|7159a5cd ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - bannerMapper= com.sun.proxy.$Proxy99
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1mef7br1t67dkp|6ff415ad, dataSourceName -> 1hge13c9y1mef7br1t67dkp|6ff415ad ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - bannerMapper= com.sun.proxy.$Proxy99
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1mefzzyu6ks3w|100c567f, dataSourceName -> 1hge13c9y1mefzzyu6ks3w|100c567f ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - bannerMapper= com.sun.proxy.$Proxy99
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - dataSource= com.mchange.v2.c3p0.ComboPooledDataSource[ identityToken -> 1hge13c9y1mehm388uum5b|37864b77, dataSourceName -> 1hge13c9y1mehm388uum5b|37864b77 ]
+[com.kaige123.daomu.eureka_client_video_user.EurekaClientVideoUserApplicationTests] - bannerMapper= com.sun.proxy.$Proxy99
